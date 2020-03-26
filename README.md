@@ -58,5 +58,7 @@ NOTES:
 2. ld -m elf_i386 filename.o -o filename
 3. ./filename (run the file)
 
+* Helpful website for Makefiles:
+https://www.gnu.org/software/make/manual/html_node/Introduction.html
 
 
