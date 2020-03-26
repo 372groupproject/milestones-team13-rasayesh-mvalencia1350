@@ -1,4 +1,4 @@
-Code Snippet 1 "HELLO WORLD":
+Code Snippet 1 "hello world":
 -----------------------------
 section .data
 	Hello db "hello world",10,0
