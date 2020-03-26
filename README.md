@@ -29,9 +29,8 @@ Martin Valencia    [mvalencia1350@email.arizona.edu](mailto:mvalencia1350@email.
 * Using nasm assembler
 
 ## Executing Assembly program
-------------
-To run a program, use ```./```
-```./helloworld```
+* To run a program, use ```./```:
+* Ex. to run helloworld use ```./helloworld```
 
 
 
