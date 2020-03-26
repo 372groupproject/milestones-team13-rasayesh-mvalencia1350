@@ -36,17 +36,11 @@ Martin Valencia    [mvalencia1350@email.arizona.edu](mailto:mvalencia1350@email.
 
 TODO:
 ------------
-A 
-- 2,3,4
-
-C 
-- 5
-
 D 
 - 5
 
 E 
-- 1,2
+- 2
 
 NOTES:
 ------------
