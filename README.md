@@ -2,6 +2,7 @@ References
 ------------
 
 Authors:
+
 Reza Munoz-Asayesh [rasayesh@email.arizona.edu](mailto:rasayesh@email.arizona.edu)  
 Martin Valencia    [mvalencia1350@email.arizona.edu](mailto:mvalencia1350@email.arizona.edu)  
 Date: 03/25/2020
