@@ -28,6 +28,11 @@ Martin Valencia    [mvalencia1350@email.arizona.edu](mailto:mvalencia1350@email.
 ## Compiler/Interpreter 
 * Using nasm assembler
 
+## Executing Assembly program
+------------
+To run a program, use ```./```
+```./helloworld```
+
 
 
 TODO:
