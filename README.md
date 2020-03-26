@@ -10,6 +10,7 @@ N/A
 
 ## Website
 https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
+https://ccm.net/faq/1559-compiling-an-assembly-program-with-nasm
 
 ## Reference Manual
 https://docs.oracle.com/cd/E19253-01/817-5477/817-5477.pdf
