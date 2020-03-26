@@ -31,7 +31,7 @@ Martin Valencia    [mvalencia1350@email.arizona.edu](mailto:mvalencia1350@email.
 
 
 TODO:
------------
+------------
 A 
 - 2,3,4
 
@@ -43,4 +43,16 @@ D
 
 E 
 - 1,2
+
+NOTES:
+------------
+* Remember to change file permissions:
+1. the user can read, write, and execute it;
+2. members of your group can read and execute it; 
+3. and others may only read it.
+```
+ chmod u=rwx,g=rx,o=r myfile 
+```
+
+
 
