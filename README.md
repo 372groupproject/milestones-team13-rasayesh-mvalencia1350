@@ -4,7 +4,7 @@ References
 Authors:
 
 Reza Munoz-Asayesh [rasayesh@email.arizona.edu](mailto:rasayesh@email.arizona.edu)  
-Martin Valencia2    [mvalencia1350@email.arizona.edu](mailto:mvalencia1350@email.arizona.edu)  
+Martin Valencia    [mvalencia1350@email.arizona.edu](mailto:mvalencia1350@email.arizona.edu)  
 
 ## Book
 * N/A
