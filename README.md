@@ -32,16 +32,6 @@ Martin Valencia    [mvalencia1350@email.arizona.edu](mailto:mvalencia1350@email.
 * To run a program, use ```./executablename```
 * Ex. to run helloworld use ```./helloworld```
 
-
-
-TODO:
-------------
-D 
-- 5
-
-E 
-- 2
-
 NOTES:
 ------------
 * Remember to change file permissions:
