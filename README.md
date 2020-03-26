@@ -3,7 +3,8 @@ References
 
 Author: 
 Reza Munoz-Asayesh [rasayesh@email.arizona.edu](mailto:rasayesh@email.arizona.edu)  
-Date: 03/02/2020
+Martin Valencia    [mvalencia1350@email.arizona.edu](mailto:mvalencia1350@email.arizona.edu)  
+Date: 03/25/2020
 
 ## Book
 * N/A
