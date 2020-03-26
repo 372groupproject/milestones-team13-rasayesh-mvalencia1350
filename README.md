@@ -10,6 +10,7 @@ Martin Valencia    [mvalencia1350@email.arizona.edu](mailto:mvalencia1350@email.
 * N/A
 
 ## Website
+* https://cs.lmu.edu/~ray/notes/x86assembly/
 * https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
 * https://ccm.net/faq/1559-compiling-an-assembly-program-with-nasm
 * https://www.youtube.com/playlist?list=PL6LQDONHZvFIc4p0td7B2BBRod1KSlDod
