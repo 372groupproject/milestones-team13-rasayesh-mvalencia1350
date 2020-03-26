@@ -53,7 +53,7 @@ NOTES:
 ```
  chmod u=rwx,g=rx,o=r myfile 
 ```
-* steps to get from .asm file to exec file in Ubuntu.
+* Steps to get from .asm file to exec file in Ubuntu.
 1. nasm -f elf filename
 2. ld -m elf_i386 filename.o -o filename
 3. ./filename (run the file)
