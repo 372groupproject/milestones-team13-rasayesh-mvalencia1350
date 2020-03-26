@@ -26,7 +26,7 @@ Martin Valencia    [mvalencia1350@email.arizona.edu](mailto:mvalencia1350@email.
 * https://www.youtube.com/watch?v=kXbMCKMJXXQ
 
 ## Compiler/Interpreter 
-* Using nasm assembler (In lectura)
+* Using nasm assembler
 
 
 
