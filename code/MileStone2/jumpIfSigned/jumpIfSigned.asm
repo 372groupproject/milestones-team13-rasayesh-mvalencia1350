@@ -1,4 +1,3 @@
-;https://asmtutor.com/
 section .data
 	Msg1 db "This won't be printed.",10,0	;Msg1 = "is  won't be  printed.\n"
 	Msg1Len equ $ - Msg1		            ;get length of Hello
@@ -14,8 +13,8 @@ _start:
 	mov ecx,Msg2	;ecx = Msg2
 	mov edx,Msg2Len	;edx = Msg2Len
     int 80h		    ;interrupt code 80h
-    cmp ecx, 100    ;ecx = 10
-    jne skip        ;if ecx != 100 jump to skip
+    mov ecx,-10      ;ecx = -10
+    jns  skip        ;if ecx is a signed number jump to skip
 	mov eax,4	    ;eax = 4
 	mov ebx,1	    ;ebx = 1
 	mov ecx,Msg1	;ecx = Msg1
