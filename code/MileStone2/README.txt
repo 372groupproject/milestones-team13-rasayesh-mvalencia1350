@@ -265,7 +265,7 @@ How to run:
    type "./jumpIfSigned" into command line.
    
    
-Code Snippet 8 "jumpLessThanEqual":
+Code Snippet 7 "jumpLessThanEqual":
 -----------------------------
   
 section .data
@@ -308,7 +308,7 @@ How to run:
    type "./jumpLessThanEqual" into command line.
    
    
-Code Snippet 9 "jumpNotEqual":
+Code Snippet 8 "jumpNotEqual":
 -----------------------------
 ;https://asmtutor.com/
 section .data
