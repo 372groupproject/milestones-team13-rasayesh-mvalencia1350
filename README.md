@@ -7,7 +7,7 @@ Reza Munoz-Asayesh [rasayesh@email.arizona.edu](mailto:rasayesh@email.arizona.ed
 Martin Valencia    [mvalencia1350@email.arizona.edu](mailto:mvalencia1350@email.arizona.edu)  
 
 ## Book
-* N/A
+* https://archive.org/details/8086808880286ass0000scan/page/n5
 
 ## Website
 * https://cs.lmu.edu/~ray/notes/x86assembly/
