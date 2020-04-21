@@ -1,0 +1,4 @@
+* General theme of the video is to present our project.
+* The ideas we want to get accross are how we made our project code wise and what it does
+* we will make a video of our selves demoing our program after we talk about how we made it.
+* discord + looking at code using a screen recorder.
